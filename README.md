@@ -120,7 +120,7 @@ Open `http://localhost:5173`
 | PUT | `/api/admin/incident/:id` | Admin | Verify/reject incident |
 | DELETE | `/api/admin/incident/:id` | Admin | Delete incident |
 | GET | `/api/admin/stats` | Admin | Dashboard stats |
-| GET | `/api/admin/users` | Admin | All users |
+| GET | `/api/admin/users` | Admin | All users | 
 
 ## Free APIs Used (No Keys Required)
 
