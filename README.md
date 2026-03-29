@@ -1,4 +1,4 @@
-# SAFELLE — Safety Simplified
+# SAFELLE — Safety Simplified 
 
 > Your safest route home. A comprehensive women's safety platform with real-time incident mapping, safe route navigation, and emergency SOS alerts.
 
